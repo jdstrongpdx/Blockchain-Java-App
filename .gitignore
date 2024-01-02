@@ -1,0 +1,26 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Blockchain (Java)/*
+!/Blockchain (Java)/task/
+/Blockchain (Java)/task/*
+!/Blockchain (Java)/task/src
+
+# Project exclude paths
+/Topics/Inner classes/Christmas tree/out/
+/Topics/Inner classes/Christmas tree/out/production/classes/
+/Topics/Inner classes/New Inner class/out/
+/Topics/Inner classes/New Inner class/out/production/classes/
+/Topics/Nested classes/Find min and max/out/
+/Topics/Nested classes/Find min and max/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
