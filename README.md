@@ -1,6 +1,6 @@
 <h3>Java Multi-threaded Blockchain transaction/messaging Desktop Application</h3>
             <p><strong>App Type:</strong> Multi-threaded desktop Java Application</p>
-            <p><strong>Description:</strong> Creation of a Blockchain message/transaction service including Block generation, messaging/transactions, mining, and validation.</p>
+            <p><strong>Description:</strong> Creation of a Multi-threaded Blockchain message/transaction application including Block generation, messaging/transactions, mining, and validation.</p>
             <p><strong>Details:</strong> The program does the following:</p>
             <ol>
                 <li>Initializes a Message Service that:</li>
@@ -29,7 +29,6 @@
                     <li>Once a return is successful, it will validate the mined Block, add it to the chain, provide mining time feedback to the zero service. </li>
                  </ol>
                  
-            </ol>
 
 
 <p>Blockchains are data structures where blocks are inseparably connected. What makes blockchains so special is the security level they offer due to the way they are constructed. Blockchains are unhackable, so it makes perfect sense why cryptocurrency makes use of this technology. In this project, you will try yourself at making a microcosm where virtual miners earn cryptocurrency and exchange messages and transactions using blockchain. As difficult as the project might be, it is bound to pay off: not in cryptocurrency, but in knowledge and skills.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/50?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/50</a>
